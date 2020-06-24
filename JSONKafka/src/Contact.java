@@ -4,9 +4,6 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 
 import java.util.StringTokenizer;
 
-/**
- * Created by sunilpatil on 12/25/16.
- */
 public class Contact {
     private int contactId;
     private String firstName;
